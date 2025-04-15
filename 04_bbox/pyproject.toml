@@ -1,0 +1,6 @@
+[project]
+name = "04-bbox"
+version = "0.1.0"
+description = "bounding box collision detection"
+requires-python = ">=3.13"
+dependencies = ["matplotlib>=3.10.1", "numpy>=2.2.4"]
